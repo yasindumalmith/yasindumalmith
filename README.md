@@ -59,3 +59,15 @@ I build the invisible plumbing that makes software ship — secure pipelines, sc
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasindumalmith&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindumalmith&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasindumalmith&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<p align="center"><em>"Automate the boring. Ship the bold."</em></p>
